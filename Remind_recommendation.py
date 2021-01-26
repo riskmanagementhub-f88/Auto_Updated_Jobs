@@ -326,7 +326,7 @@ audit_issue_list['issue_type']='SỰ VỤ'
 # In[46]:
 
 
-yag = yagmail.SMTP(user='tranducnam@f88.vn',password= 'Bongdienchay@1996',host='smtp.gmail.com')
+yag = yagmail.SMTP(user='tranminhphuong@f88.vn',password= '2314253026Bmpmp',host='smtp.gmail.com')
 
 
 # In[47]:
